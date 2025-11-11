@@ -51,16 +51,16 @@
 
 #TODO: Projects/Homework
 #TODO: Usefull libraries -> random, math, time, qrcode
-#TODO: 1. Geussing game - numbers
+#TODO: 1. Geussing game - numbers (from range set by user)
 #TODO: 2. Guessing game - list/table with predefined words
 #TODO: 3. BMI calculator
 #TODO: 4. ATM (100 - 1 x 100 2 x 50 5 x 20) etc.
-#TODO: 5. Password generator
-#TODO: 6. TODO list
-#TODO: 7. Palindrome checker
+#TODO: 5. Password generator (without some special characters)
+#TODO: 6. TODO list (add, remove, show, mark as done)
+#TODO: 7. Palindrome checker (kajak = true, hannah = true, hanna = false)
 #TODO: 8. simple mail service (message with values given by user) e.g.( Hi (input_name), we are happy to welcome you in company. We are proud you applied for (name_of_job_like_chef_or_cashier)
-#TODO: 9. simple calculator
+#TODO: 9. simple calculator (bonus - user has to exit the app manually)
 #TODO: 10. simple shop simulator (you can pick items and it shows you how sum of money)
-#TODO: 11. Click start click stop - and it measures time
+#TODO: 11. Click start click stop - and it measures time (bonus - displaying the time in real time)
 #TODO: 12. Sorting algorithm for files (images, music, videos, etc.)
 #TODO: 13. QR code generator
